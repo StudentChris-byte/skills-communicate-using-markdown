@@ -25,9 +25,9 @@ Another row | Another row
 [Link to Facebook](https://www.Facebook.com)
 
 
-` javascript
+``` javascript
 var newVar = "Hello World!"
-`
+```
 
 - [ ] Task 1
 - [ ] Task 2
