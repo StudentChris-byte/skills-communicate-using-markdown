@@ -19,3 +19,16 @@ First|Second
 -|-
 Column 1 | Column 2
 Another row | Another row
+
+![linking a cat image](https://octodex.github.com/images/yaktocat.png)
+
+[Link to Facebook](https://www.Facebook.com)
+
+
+` javascript
+var newVar = "Hello World!"
+`
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
